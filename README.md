@@ -18,15 +18,15 @@ Welcome to the Currency Converter App! This app is designed to help you easily c
 
 - **Simple Input:** Enter the amount and select the currencies you want to convert between. The app will instantly calculate the converted amount.
 
-- - ### 3. API Integration
+### 3. API Integration
 
 - **External Data**: The app integrates with an external API service to fetch currency exchange rate data. This data is used for real-time currency conversion.
 
 - **API Key Management**: To ensure security and access control, the app properly manages API keys and follows best practices for API usage.
 
-- ## Technologies Used
+## Technologies Used
 
-This app is built using the following technologies:
+  This app is built using the following technologies:
 
 - **React**: React is the JavaScript library used for building the user interface. It offers a component-based architecture that makes it easy to create reusable UI elements.
 
