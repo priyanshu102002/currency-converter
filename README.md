@@ -18,9 +18,23 @@ Welcome to the Currency Converter App! This app is designed to help you easily c
 
 - **Simple Input:** Enter the amount and select the currencies you want to convert between. The app will instantly calculate the converted amount.
 
+- ## Technologies Used
 
+- ### 3. API Integration
 
+- **External Data**: The app integrates with an external API service to fetch currency exchange rate data. This data is used for real-time currency conversion.
 
+- **API Key Management**: To ensure security and access control, the app properly manages API keys and follows best practices for API usage.
+
+This app is built using the following technologies:
+
+- **React**: React is the JavaScript library used for building the user interface. It offers a component-based architecture that makes it easy to create reusable UI elements.
+
+- **Tailwind CSS**: Tailwind CSS is a utility-first CSS framework that simplifies styling by providing a set of pre-defined classes. It helps create a modern and responsive user interface quickly.
+
+- **Vite**: Vite is a build tool that serves as the development environment for this project. It offers fast development server setup, hot module replacement (HMR), and efficient bundling.
+
+- ## Visit Website - https://currencyswaphub.netlify.app/
 
 ## Feedback
 
